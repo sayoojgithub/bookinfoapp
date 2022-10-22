@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookinfoapp/static/css/main.e08053b0.css",
+    "main.js": "/bookinfoapp/static/js/main.61de96c4.js",
+    "static/js/787.d3befce1.chunk.js": "/bookinfoapp/static/js/787.d3befce1.chunk.js",
+    "index.html": "/bookinfoapp/index.html",
+    "main.e08053b0.css.map": "/bookinfoapp/static/css/main.e08053b0.css.map",
+    "main.61de96c4.js.map": "/bookinfoapp/static/js/main.61de96c4.js.map",
+    "787.d3befce1.chunk.js.map": "/bookinfoapp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08053b0.css",
+    "static/js/main.61de96c4.js"
+  ]
+}
